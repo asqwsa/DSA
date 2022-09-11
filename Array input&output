@@ -11,4 +11,9 @@ int main(){
 		cout<<ar1[i];
 	}
 	
+	//reverse
+	for (int i = 3 ; i>=0 ; i--){
+	cout<<ar1[i];
+	}
+	
 }
